@@ -1,0 +1,9 @@
+C:\Users\Fatih\source\repos\Bynamic Button\Bynamic Button\obj\Debug\Bynamic Button.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\Bynamic Button\Bynamic Button\obj\Debug\Bynamic_Button.Form1.resources
+C:\Users\Fatih\source\repos\Bynamic Button\Bynamic Button\obj\Debug\Bynamic_Button.Properties.Resources.resources
+C:\Users\Fatih\source\repos\Bynamic Button\Bynamic Button\obj\Debug\Bynamic Button.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\Bynamic Button\Bynamic Button\bin\Debug\Bynamic Button.exe.config
+C:\Users\Fatih\source\repos\Bynamic Button\Bynamic Button\bin\Debug\Bynamic Button.exe
+C:\Users\Fatih\source\repos\Bynamic Button\Bynamic Button\bin\Debug\Bynamic Button.pdb
+C:\Users\Fatih\source\repos\Bynamic Button\Bynamic Button\obj\Debug\Bynamic Button.exe
+C:\Users\Fatih\source\repos\Bynamic Button\Bynamic Button\obj\Debug\Bynamic Button.pdb

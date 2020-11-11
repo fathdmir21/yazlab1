@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bynamic Button", "Bynamic Button\Bynamic Button.csproj", "{348068F7-0EF5-44E0-AD49-AAD0BCDDE6E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348068F7-0EF5-44E0-AD49-AAD0BCDDE6E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348068F7-0EF5-44E0-AD49-AAD0BCDDE6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348068F7-0EF5-44E0-AD49-AAD0BCDDE6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348068F7-0EF5-44E0-AD49-AAD0BCDDE6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51EDC415-4B3B-4FE9-BBE5-8F32D4C9E436}
+	EndGlobalSection
+EndGlobal
