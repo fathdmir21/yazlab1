@@ -77,5 +77,10 @@ namespace Bynamic_Button
             NewForm.Show();
             this.Dispose(false);
         }
+
+        private void xText_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
